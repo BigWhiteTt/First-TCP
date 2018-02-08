@@ -1,0 +1,7 @@
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\bin\Debug\TCP客户端.exe.config
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\bin\Debug\TCP客户端.exe
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\bin\Debug\TCP客户端.pdb
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\obj\Debug\TCP客户端.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\obj\Debug\TCP客户端.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\obj\Debug\TCP客户端.exe
+C:\Users\Administrator.IJETBEL7U85CQ12\Desktop\TCP服务器端\TCP客户端\obj\Debug\TCP客户端.pdb
